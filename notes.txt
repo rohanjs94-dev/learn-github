@@ -1,2 +1,3 @@
 This is my first Git practice file.
 Learning how git diff works.
+Adding third line to check this 
