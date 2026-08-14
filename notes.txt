@@ -2,3 +2,6 @@ This is my first Git practice file.
 Learning how git diff works.
 Adding third line to check this 
 This line was added directly on GitHub.
+
+
+This line only exists on my-experiment branch
